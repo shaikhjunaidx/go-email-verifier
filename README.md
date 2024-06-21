@@ -1,7 +1,7 @@
 
 # Email Domain Verifier
 
-This Go program verifies email addresses by checking the associated domain's DNS records, including MX, SPF, and DMARC records. It can be useful for ensuring email deliverability and security by validating that the domain has the proper configurations for handling email.
+This GoLang program verifies email addresses by checking the associated domain's DNS records, including MX, SPF, and DMARC records. It can be useful for ensuring email deliverability and security by validating that the domain has the proper configurations for handling email.
 
 ## How It Works
 
